@@ -17,6 +17,12 @@ der rest ist weitesgehend selbsterklärend.
 Bei meinen versuchen auf ein Steckbrett. komme ich mittels DD system auf ca 25cm stabil mit einer 7g Silbermünze.
 
 
+
+
+
+
+
+
 English:
 Pulse induction metal detector based on an Atmel328p (Arduino Uno/Nano)
 
